@@ -6,7 +6,7 @@
 </p>
 
 - 🌱 I'm currently working on multiple projects using  **Python**. 
-- 👨‍💻 All of my projects are available at [github.com/Arshiag556](https://github.com/Arshiag556)  
+- 👨‍💻 All of my projects are available at [github.com/IArshiadev](https://github.com/IArshiadev)  
 - 💬 Ask me about **Python**  
 - 📫 How to reach me: **arshiag556@gmail.com**
 - 📪 My telegram id: **@ArshY0X**
