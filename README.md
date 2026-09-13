@@ -13,8 +13,7 @@
 - 📚 Currently improving my knowledge of REST APIs and Django REST Framework
 - 🤝 I enjoy building projects and learning through real-world practice
 - 👨‍💻 All my projects: "github.com/IArshiadev" (https://github.com/IArshiadev)
-- 📫 Email: arshiag556@gmail.com
-- 📪 Telegram: @ArshY0X
+- 📫 Email: ....
 - 🤝 My brother's GitHub: "github.com/iliag556" (https://github.com/iliag556)
 
 ---
