@@ -12,9 +12,9 @@
 - 🌐 Working with HTML, CSS, Bootstrap, and JavaScript
 - 📚 Currently improving my knowledge of REST APIs and Django REST Framework
 - 🤝 I enjoy building projects and learning through real-world practice
-- 👨‍💻 All my projects: "github.com/IArshiadev" (github.com/IArshiadev)
+- 👨‍💻 All my projects: "github.com/IArshiadev" (https://github.com/IArshiadev)
 - 📫 Email: ....
-- 🤝 My brother's GitHub: "github.com/iliag556" (github.com/Ilia_devp)
+- 🤝 My brother's GitHub: "github.com/Ilia_devp" (https://github.com/Ilia_devp)
 
 ---
 
